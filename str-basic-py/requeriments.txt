@@ -1,0 +1,2 @@
+requirements.txt: Archivo que contiene una lista de todas las dependencias del proyecto, 
+útil para instalar todo con pip install -r requirements.txt.
