@@ -54,7 +54,7 @@ ultimo_tiempo = pygame.time.get_ticks()
 # Lista de bolas de fuego
 fuegos = []
 velocidad_fuegos = 7
-tiempo_crear_fuego = 800
+tiempo_crear_fuego = 1000
 ultimo_tiempo_fuego = pygame.time.get_ticks()
 
 def game_over():
