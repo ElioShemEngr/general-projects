@@ -1,0 +1,16 @@
+{
+  "name": "motivational-app",
+  "version": "1.0.0",
+  "description": "Motivational App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ElioShem",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
