@@ -10,13 +10,7 @@ export const initial = () => {
     console.log('¿Cuál es tu nombre?');
     let nombre = prompt('> ');
 
-    setTimeout(() => {
-        console.log(`Bienvenido, ${nombre}!`);
-    }, 2000);
-
-    setTimeout(() => {
-        console.clear();
-    }, 5000);
+    console.log(`Bienvenido, ${nombre}!`);
 
     return nombre;
 };
